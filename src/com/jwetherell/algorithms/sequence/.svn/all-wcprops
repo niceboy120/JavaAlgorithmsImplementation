@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/373/trunk/src/com/jwetherell/algorithms/sequence
+END
+TotalOfSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/373/trunk/src/com/jwetherell/algorithms/sequence/TotalOfSequence.java
+END
+SubsequenceCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/373/trunk/src/com/jwetherell/algorithms/sequence/SubsequenceCounter.java
+END
+FibonacciSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/373/trunk/src/com/jwetherell/algorithms/sequence/FibonacciSequence.java
+END
+LongestCommonSubsequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/373/trunk/src/com/jwetherell/algorithms/sequence/LongestCommonSubsequence.java
+END
